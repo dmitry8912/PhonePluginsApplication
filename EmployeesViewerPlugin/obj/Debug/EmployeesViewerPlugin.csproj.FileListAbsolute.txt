@@ -1,0 +1,17 @@
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\EmployeesLoader.Plugin.dll
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\EmployeesViewerPlugin.dll
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\EmployeesViewerPlugin.pdb
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\NLog.dll
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\PhoneApp.exe
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\PhoneApp.pdb
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\PhoneApp.exe.config
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\NLog.xml
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\obj\Debug\EmployeesViewerPlugin.csproj.AssemblyReference.cache
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\obj\Debug\EmployeesViewerPlugin.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\obj\Debug\EmployeesViewerPlugin.csproj.CopyComplete
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\obj\Debug\EmployeesViewerPlugin.dll
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\obj\Debug\EmployeesViewerPlugin.pdb
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\EmployeesViewer.Plugin.dll
+C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\EmployeesViewer.Plugin.pdb

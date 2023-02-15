@@ -1,0 +1,15 @@
+C:\Users\dmitr\source\repos\PhoneApp\bin\Debug\PhoneApp.exe.config
+C:\Users\dmitr\source\repos\PhoneApp\bin\Debug\PhoneApp.exe
+C:\Users\dmitr\source\repos\PhoneApp\bin\Debug\PhoneApp.pdb
+C:\Users\dmitr\source\repos\PhoneApp\obj\Debug\PhoneApp.csproj.AssemblyReference.cache
+C:\Users\dmitr\source\repos\PhoneApp\obj\Debug\PhoneApp.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\PhoneApp\obj\Debug\PhoneApp.exe
+C:\Users\dmitr\source\repos\PhoneApp\obj\Debug\PhoneApp.pdb
+C:\Users\dmitr\source\repos\PhoneApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dmitr\source\repos\PhoneApp\bin\Debug\NLog.dll
+C:\Users\dmitr\source\repos\PhoneApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dmitr\source\repos\PhoneApp\bin\Debug\NLog.xml
+C:\Users\dmitr\source\repos\PhoneApp\obj\Debug\PhoneApp.csproj.CopyComplete
+C:\Users\dmitr\source\repos\PhoneApp\bin\Debug\EmployeesLoader.Plugin.dll
+C:\Users\dmitr\source\repos\PhoneApp\bin\Debug\EmployeesViewer.Plugin.dll
+C:\Users\dmitr\source\repos\PhoneApp\bin\Debug\EmployeesViewer.Plugin.pdb
